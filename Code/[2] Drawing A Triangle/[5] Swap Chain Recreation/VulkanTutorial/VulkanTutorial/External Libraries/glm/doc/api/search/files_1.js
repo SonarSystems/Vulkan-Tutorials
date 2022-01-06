@@ -1,5 +1,3 @@
-var searchData=
-[
-  ['bit_2ehpp',['bit.hpp',['../a00008.html',1,'']]],
-  ['bitfield_2ehpp',['bitfield.hpp',['../a00009.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd8d0690c289622bcec9ffc786d83ed5637e6905b797b693d12dd6efd7b3904d
+size 141

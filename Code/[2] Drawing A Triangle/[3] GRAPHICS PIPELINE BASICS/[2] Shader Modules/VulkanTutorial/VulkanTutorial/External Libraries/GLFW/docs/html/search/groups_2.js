@@ -1,5 +1,3 @@
-var searchData=
-[
-  ['gamepad_20axes_762',['Gamepad axes',['../group__gamepad__axes.html',1,'']]],
-  ['gamepad_20buttons_763',['Gamepad buttons',['../group__gamepad__buttons.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:a39738267c51fd45126942244d93ab886b6fd1783e5b05ab70ffd585ccec194a
+size 191

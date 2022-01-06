@@ -1,6 +1,3 @@
-var searchData=
-[
-  ['compat_2edox_532',['compat.dox',['../compat_8dox.html',1,'']]],
-  ['compile_2edox_533',['compile.dox',['../compile_8dox.html',1,'']]],
-  ['context_2edox_534',['context.dox',['../context_8dox.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:71aac0e634747d3ed591faec0a667f3f94279a1643108d94524d0757631cc381
+size 230

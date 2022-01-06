@@ -1,13 +1,3 @@
-/// @ref gtx_float_normalize
-
-#include <limits>
-
-namespace glm
-{
-	template<length_t L, typename T, qualifier Q>
-	GLM_FUNC_QUALIFIER vec<L, float, Q> floatNormalize(vec<L, T, Q> const& v)
-	{
-		return vec<L, float, Q>(v) / static_cast<float>(std::numeric_limits<T>::max());
-	}
-
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ac42864b8af5655e781a7490c8708e0f6c2e5d2a9d22fe9dc70e99d9dca8d9f
+size 306

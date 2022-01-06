@@ -1,18 +1,3 @@
-/// @ref core
-/// @file glm/ext/matrix_double4x3.hpp
-
-#pragma once
-#include "../detail/type_mat4x3.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_matrix
-	/// @{
-
-	/// 4 columns of 3 components matrix of double-precision floating-point numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.6 Matrices</a>
-	typedef mat<4, 3, double, defaultp>		dmat4x3;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:021dbc9cc77be8a0dff9f84a5103bfdccb013ea0a134b2bbeab97fad44314f2a
+size 469

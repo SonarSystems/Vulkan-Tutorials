@@ -1,34 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_double3_precision.hpp
-
-#pragma once
-#include "../detail/type_vec3.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector_precision
-	/// @{
-
-	/// 3 components vector of high double-qualifier floating-point numbers.
-	/// There is no guarantee on the actual qualifier.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<3, double, highp>		highp_dvec3;
-
-	/// 3 components vector of medium double-qualifier floating-point numbers.
-	/// There is no guarantee on the actual qualifier.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<3, double, mediump>		mediump_dvec3;
-
-	/// 3 components vector of low double-qualifier floating-point numbers.
-	/// There is no guarantee on the actual qualifier.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<3, double, lowp>		lowp_dvec3;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cf3c9415fa477eb52840778be7f7ee8d104c3fd911fc5b72b56e84a0a220fac
+size 1590

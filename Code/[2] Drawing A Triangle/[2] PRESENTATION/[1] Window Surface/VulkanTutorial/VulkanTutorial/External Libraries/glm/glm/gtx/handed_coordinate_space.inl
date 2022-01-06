@@ -1,26 +1,3 @@
-/// @ref gtx_handed_coordinate_space
-
-namespace glm
-{
-	template<typename T, qualifier Q>
-	GLM_FUNC_QUALIFIER bool rightHanded
-	(
-		vec<3, T, Q> const& tangent,
-		vec<3, T, Q> const& binormal,
-		vec<3, T, Q> const& normal
-	)
-	{
-		return dot(cross(normal, tangent), binormal) > T(0);
-	}
-
-	template<typename T, qualifier Q>
-	GLM_FUNC_QUALIFIER bool leftHanded
-	(
-		vec<3, T, Q> const& tangent,
-		vec<3, T, Q> const& binormal,
-		vec<3, T, Q> const& normal
-	)
-	{
-		return dot(cross(normal, tangent), binormal) < T(0);
-	}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:590abaf0f5388468a554d7ece4b17523dec50da535c70bbd2102c0d092e8cbe7
+size 559

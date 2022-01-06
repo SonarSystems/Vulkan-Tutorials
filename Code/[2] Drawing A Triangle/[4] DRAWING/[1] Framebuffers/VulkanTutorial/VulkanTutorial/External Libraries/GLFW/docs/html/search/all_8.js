@@ -1,5 +1,3 @@
-var searchData=
-[
-  ['joystick_20hat_20states_497',['Joystick hat states',['../group__hat__state.html',1,'']]],
-  ['joysticks_498',['Joysticks',['../group__joysticks.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:d482efeda197e34b054682e62b827ab4fe43d5f52a4f2982eb0654b2f3b82b95
+size 183

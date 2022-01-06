@@ -1,7 +1,3 @@
-var searchData=
-[
-  ['glfwgamepadstate_527',['GLFWgamepadstate',['../structGLFWgamepadstate.html',1,'']]],
-  ['glfwgammaramp_528',['GLFWgammaramp',['../structGLFWgammaramp.html',1,'']]],
-  ['glfwimage_529',['GLFWimage',['../structGLFWimage.html',1,'']]],
-  ['glfwvidmode_530',['GLFWvidmode',['../structGLFWvidmode.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5fba82da6689e5646e41ad924e44a6681337f3851e8548107ff1faf2df7ffe9
+size 331

@@ -1,6 +1,3 @@
-var searchData=
-[
-  ['input_20guide_782',['Input guide',['../input_guide.html',1,'']]],
-  ['internal_20structure_783',['Internal structure',['../internals_guide.html',1,'']]],
-  ['introduction_20to_20the_20api_784',['Introduction to the API',['../intro_guide.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:566fca9f6218763a8f35664b975e4177570e0cf6e69f6397fff7f96f9fd8584d
+size 276

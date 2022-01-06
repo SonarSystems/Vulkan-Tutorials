@@ -1,4 +1,3 @@
-var searchData=
-[
-  ['height_696',['height',['../structGLFWvidmode.html#ac65942a5f6981695517437a9d571d03c',1,'GLFWvidmode::height()'],['../structGLFWimage.html#a0b7d95368f0c80d5e5c9875057c7dbec',1,'GLFWimage::height()']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d2321ffb94c6820a02cd6c400aed8d6b5093fd00b0b12f36c8b5f1db8cccec1
+size 225

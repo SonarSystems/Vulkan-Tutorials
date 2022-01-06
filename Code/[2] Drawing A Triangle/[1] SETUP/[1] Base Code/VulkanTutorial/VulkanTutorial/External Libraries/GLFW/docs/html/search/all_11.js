@@ -1,7 +1,3 @@
-var searchData=
-[
-  ['width_523',['width',['../structGLFWvidmode.html#a698dcb200562051a7249cb6ae154c71d',1,'GLFWvidmode::width()'],['../structGLFWimage.html#af6a71cc999fe6d3aea31dd7e9687d835',1,'GLFWimage::width()']]],
-  ['window_20guide_524',['Window guide',['../window_guide.html',1,'']]],
-  ['window_20reference_525',['Window reference',['../group__window.html',1,'']]],
-  ['window_2edox_526',['window.dox',['../window_8dox.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:899145049c542d481c1fa80bcc9d2bd3fe450b1fb03cf804e44a7c05a341358c
+size 444

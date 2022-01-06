@@ -1,6 +1,3 @@
-var searchData=
-[
-  ['size_517',['size',['../structGLFWgammaramp.html#ad620e1cffbff9a32c51bca46301b59a5',1,'GLFWgammaramp']]],
-  ['standard_20cursor_20shapes_518',['Standard cursor shapes',['../group__shapes.html',1,'']]],
-  ['standards_20conformance_519',['Standards conformance',['../compat_guide.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fcc363993331fd21d7537163d3dd9dfb4776f23661e43d6c5d79a44afc18fb0
+size 316

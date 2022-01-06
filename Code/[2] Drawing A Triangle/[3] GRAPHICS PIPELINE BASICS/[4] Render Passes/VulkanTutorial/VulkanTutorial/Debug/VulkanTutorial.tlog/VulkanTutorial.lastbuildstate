@@ -1,2 +1,3 @@
-PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30037:VCServicingVersionATL=14.29.30038:VCServicingVersionCrtHeaders=14.29.30038:VCServicingVersionCompilers=14.29.30038:TargetPlatformVersion=10.0.18362.0:
-Debug|Win32|E:\VulkanTutorial\VulkanTutorial\|
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a431f76cd4c9fc7aa0d759c2026a92f3af2663744ca76547870fbd604769156
+size 279

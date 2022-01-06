@@ -1,34 +1,3 @@
-#define GLM_ENABLE_EXPERIMENTAL
-#include <glm/gtx/gradient_paint.hpp>
-
-int test_radialGradient()
-{
-	int Error = 0;
-	
-	float Gradient = glm::radialGradient(glm::vec2(0), 1.0f, glm::vec2(1), glm::vec2(0.5));
-	Error += Gradient != 0.0f ? 0 : 1;
-	
-	return Error;
-}
-
-int test_linearGradient()
-{
-	int Error = 0;
-
-	float Gradient = glm::linearGradient(glm::vec2(0), glm::vec2(1), glm::vec2(0.5));
-	Error += Gradient != 0.0f ? 0 : 1;
-
-	return Error;
-}
-
-int main()
-{
-	int Error = 0;
-
-    Error += test_radialGradient();
-    Error += test_linearGradient();
-    
-	return Error;
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcbf4c70dd108075b9853e146efea558de0a82178ec1d1528b10d24ef69d687b
+size 605

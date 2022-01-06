@@ -1,18 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_int2.hpp
-
-#pragma once
-#include "../detail/type_vec2.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector
-	/// @{
-
-	/// 2 components vector of signed integer numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	typedef vec<2, int, defaultp>		ivec2;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b22b6950e3274a9c285fbf6a7d85a7521c956bda32e44c4a883ccf30d26cb1c
+size 423

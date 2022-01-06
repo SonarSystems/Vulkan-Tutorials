@@ -1,12 +1,3 @@
-﻿  main.cpp
-main.obj : error LNK2019: unresolved external symbol _vkEnumerateInstanceExtensionProperties@12 referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
-main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
-E:\VulkanTutorial\VulkanTutorial\\External Libraries\Vulkan\Lib\vulkan-1.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
-E:\VulkanTutorial\VulkanTutorial\\External Libraries\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
-E:\VulkanTutorial\Debug\VulkanTutorial.exe : fatal error LNK1120: 8 unresolved externals
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8596d5bb599123754e22c07b6c368a1f81cc14373301714b665c64fe32e5d66
+size 1261

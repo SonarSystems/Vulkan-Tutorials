@@ -1,18 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_float2.hpp
-
-#pragma once
-#include "../detail/type_vec2.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector
-	/// @{
-
-	/// 2 components vector of single-precision floating-point numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	typedef vec<2, float, defaultp>	vec2;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbb12f8f18196f7b7e47c4ba64d11bc2ffaf18fcf13294b733d7814223652174
+size 442

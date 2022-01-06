@@ -1,4 +1,3 @@
-var searchData=
-[
-  ['value_5fptr',['value_ptr',['../a00305.html#ga1c64669e1ba1160ad9386e43dc57569a',1,'glm']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:512a1666ecd0a1064dc79a4c45c11c7c6889aa95c11d38b0376240a6f696f103
+size 119

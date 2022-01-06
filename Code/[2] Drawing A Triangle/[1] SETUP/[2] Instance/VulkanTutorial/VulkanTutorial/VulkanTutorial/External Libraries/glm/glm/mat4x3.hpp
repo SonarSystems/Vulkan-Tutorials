@@ -1,8 +1,3 @@
-/// @ref core
-/// @file glm/mat4x3.hpp
-
-#pragma once
-#include "./ext/matrix_double4x3.hpp"
-#include "./ext/matrix_double4x3_precision.hpp"
-#include "./ext/matrix_float4x3.hpp"
-#include "./ext/matrix_float4x3_precision.hpp"
+version https://git-lfs.github.com/spec/v1
+oid sha256:738acb70ca0e61e503e3944fc7cb0f9e0e92fb77b592f59da61f0b29084fb074
+size 231

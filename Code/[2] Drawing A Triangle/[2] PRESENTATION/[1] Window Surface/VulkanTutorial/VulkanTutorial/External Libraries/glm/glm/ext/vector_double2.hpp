@@ -1,18 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_double2.hpp
-
-#pragma once
-#include "../detail/type_vec2.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector
-	/// @{
-
-	/// 2 components vector of double-precision floating-point numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	typedef vec<2, double, defaultp>		dvec2;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa65d51f6f502e7be3c03f23d614e58b3c3620a68f3a76a1ddafc54db2d9e654
+size 446

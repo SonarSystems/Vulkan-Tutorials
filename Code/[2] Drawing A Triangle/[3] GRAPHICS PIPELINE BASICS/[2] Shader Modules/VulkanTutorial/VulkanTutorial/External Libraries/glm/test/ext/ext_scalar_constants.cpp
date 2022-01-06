@@ -1,36 +1,3 @@
-#include <glm/ext/scalar_constants.hpp>
-
-template <typename valType>
-static int test_epsilon()
-{
-	int Error = 0;
-
-	valType const Test = glm::epsilon<valType>();
-	Error += Test > static_cast<valType>(0) ? 0 : 1;
-
-	return Error;
-}
-
-template <typename valType>
-static int test_pi()
-{
-	int Error = 0;
-
-	valType const Test = glm::pi<valType>();
-	Error += Test > static_cast<valType>(3.14) ? 0 : 1;
-	Error += Test < static_cast<valType>(3.15) ? 0 : 1;
-
-	return Error;
-}
-
-int main()
-{
-	int Error = 0;
-
-	Error += test_epsilon<float>();
-	Error += test_epsilon<double>();
-	Error += test_pi<float>();
-	Error += test_pi<double>();
-
-	return Error;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7c26b49ba747a8fb13e4cc239846265e41778aee86bc533957c63652d0d4c3e
+size 673

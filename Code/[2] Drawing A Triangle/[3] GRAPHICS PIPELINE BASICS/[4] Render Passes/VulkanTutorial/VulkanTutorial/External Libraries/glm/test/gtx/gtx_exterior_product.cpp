@@ -1,14 +1,3 @@
-#include <glm/gtx/exterior_product.hpp>
-#include <glm/gtc/epsilon.hpp>
-#include <glm/vec2.hpp>
-
-int main()
-{
-	int Error = 0;
-
-	float const f = glm::cross(glm::vec2(1.0f, 1.0f), glm::vec2(1.0f, 1.0f));
-	Error += glm::epsilonEqual(f, 0.0f, 0.001f) ? 0 : 1;
-
-	return Error;
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:42b2cfe5dab350253c7aa6e6424ed70f80dd1dc04eb9568ff2138e9190749f4f
+size 288

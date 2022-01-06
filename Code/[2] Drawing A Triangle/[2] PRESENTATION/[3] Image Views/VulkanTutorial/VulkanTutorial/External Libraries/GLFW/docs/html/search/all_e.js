@@ -1,7 +1,3 @@
-var searchData=
-[
-  ['red_513',['red',['../structGLFWgammaramp.html#a2cce5d968734b685623eef913e635138',1,'GLFWgammaramp']]],
-  ['redbits_514',['redBits',['../structGLFWvidmode.html#a6066c4ecd251098700062d3b735dba1b',1,'GLFWvidmode']]],
-  ['refreshrate_515',['refreshRate',['../structGLFWvidmode.html#a791bdd6c7697b09f7e9c97054bf05649',1,'GLFWvidmode']]],
-  ['release_20notes_516',['Release notes',['../news.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:640c3bf572f6b8d000a0bc527bbc835413f99c0ddbff8f5f407900f22abac4cd
+size 424

@@ -1,18 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_int3.hpp
-
-#pragma once
-#include "../detail/type_vec3.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector
-	/// @{
-
-	/// 3 components vector of signed integer numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	typedef vec<3, int, defaultp>		ivec3;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:0732541c4b296456a1be9999253f2e4c7b68f0f4dd997e974816cbaeb667d2bf
+size 423

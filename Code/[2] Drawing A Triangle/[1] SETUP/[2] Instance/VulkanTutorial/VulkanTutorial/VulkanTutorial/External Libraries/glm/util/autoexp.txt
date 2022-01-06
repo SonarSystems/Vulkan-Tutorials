@@ -1,28 +1,3 @@
-[Visualizer]
-
-glm::detail::tvec2<*>{
-    preview (
-        #(#($c.x,$c.y))
-    )
-    children (
-            #([x]: $c.x,[y]: $c.y)
-    )
-}
-
-glm::detail::tvec3<*>{
-    preview (
-        #($e.x,$e.y,$e.z)
-    )
-    children (
-            #([x]: $e.x,[y]: $e.y,[z]: $e.z)
-    )
-}
-
-glm::detail::tvec4<*>{
-    preview (
-        #($c.x,$c.y,$c.z,$c.w)
-    )
-    children (
-            #([x]: $e.x,[y]: $e.y,[z]: $e.z, #([w]: $e.w))
-    )
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c0ea3379f9db56c00d78dd4b342b63f0bf13de8b15da4daf4c61b7a3eea9b6e
+size 462

@@ -1,31 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_float3_precision.hpp
-
-#pragma once
-#include "../detail/type_vec3.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector_precision
-	/// @{
-
-	/// 3 components vector of high single-qualifier floating-point numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<3, float, highp>		highp_vec3;
-
-	/// 3 components vector of medium single-qualifier floating-point numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<3, float, mediump>		mediump_vec3;
-
-	/// 3 components vector of low single-qualifier floating-point numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<3, float, lowp>			lowp_vec3;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:3928df5009a88ba934f4e4fba3b38c3d1d1cea4a203a8b7fd6552000703d5fc4
+size 1425

@@ -1,28 +1,3 @@
-#include <glm/ext/matrix_uint4x3_sized.hpp>
-
-#if GLM_HAS_STATIC_ASSERT
-static_assert(sizeof(glm::u8mat4x3) == 12, "uint8 size isn't 1 byte on this platform");
-static_assert(sizeof(glm::u16mat4x3) == 24, "uint16 size isn't 2 bytes on this platform");
-static_assert(sizeof(glm::u32mat4x3) == 48, "uint32 size isn't 4 bytes on this platform");
-static_assert(sizeof(glm::u64mat4x3) == 96, "uint64 size isn't 8 bytes on this platform");
-#endif
-
-static int test_comp()
-{
-	int Error = 0;
-
-	Error += sizeof(glm::u8mat4x3) < sizeof(glm::u16mat4x3) ? 0 : 1;
-	Error += sizeof(glm::u16mat4x3) < sizeof(glm::u32mat4x3) ? 0 : 1;
-	Error += sizeof(glm::u32mat4x3) < sizeof(glm::u64mat4x3) ? 0 : 1;
-
-	return Error;
-}
-
-int main()
-{
-	int Error = 0;
-
-	Error += test_comp();
-
-	return Error;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f82e6e45812082d851d24b7c6615d8807306acc06a278598276d8f7dcc68738
+size 800

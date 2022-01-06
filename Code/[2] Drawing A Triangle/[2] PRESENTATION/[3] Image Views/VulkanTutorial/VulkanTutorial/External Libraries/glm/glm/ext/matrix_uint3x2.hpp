@@ -1,33 +1,3 @@
-/// @ref ext_matrix_uint3x2
-/// @file glm/ext/matrix_uint3x2.hpp
-///
-/// @see core (dependence)
-///
-/// @defgroup ext_matrix_int3x2 GLM_EXT_matrix_uint3x2
-/// @ingroup ext
-///
-/// Include <glm/ext/matrix_uint3x2.hpp> to use the features of this extension.
-///
-/// Defines a number of matrices with integer types.
-
-#pragma once
-
-// Dependency:
-#include "../mat3x2.hpp"
-
-#if GLM_MESSAGES == GLM_ENABLE && !defined(GLM_EXT_INCLUDED)
-#	pragma message("GLM: GLM_EXT_matrix_uint3x2 extension included")
-#endif
-
-namespace glm
-{
-	/// @addtogroup ext_matrix_uint3x2
-	/// @{
-
-	/// Unsigned integer 3x2 matrix.
-	///
-	/// @see ext_matrix_uint3x2
-	typedef mat<3, 2, uint, defaultp>	umat3x2;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c621fa388dfa250ef51421fbdc592fa0d80d39b1167853ed70f0ef0f66babb5
+size 737

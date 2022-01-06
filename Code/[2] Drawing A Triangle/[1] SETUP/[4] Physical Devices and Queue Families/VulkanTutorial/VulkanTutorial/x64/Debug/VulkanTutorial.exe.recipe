@@ -1,11 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <ProjectOutputs>
-    <ProjectOutput>
-      <FullPath>E:\GitHub\Vulkan-Tutorials\Code\[2] Drawing A Triangle\[1] SETUP\[4] Physical Devices and Queue Families\VulkanTutorial\x64\Debug\VulkanTutorial.exe</FullPath>
-    </ProjectOutput>
-  </ProjectOutputs>
-  <ContentFiles />
-  <SatelliteDlls />
-  <NonRecipeFileRefs />
-</Project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8e2e42283d75d6dc6e1954c050d1e8646411a672505980a9e5590e3af233e99
+size 391

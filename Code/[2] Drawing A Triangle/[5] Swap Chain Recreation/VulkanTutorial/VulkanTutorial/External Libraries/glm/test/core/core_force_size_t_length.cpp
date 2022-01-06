@@ -1,12 +1,3 @@
-#define GLM_FORCE_SIZE_T_LENGTH
-
-#include <glm/glm.hpp>
-#include <glm/ext.hpp>
-
-int main()
-{
-	int Error = 0;
-
-	return Error;
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6195ed7f362617ae1d9517e92733af7a6577980329bc2f85e4368973e2ed95e5
+size 140

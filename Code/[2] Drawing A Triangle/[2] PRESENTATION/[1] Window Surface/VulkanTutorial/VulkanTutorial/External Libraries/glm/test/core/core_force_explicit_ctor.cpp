@@ -1,17 +1,3 @@
-#define GLM_FORCE_EXPLICIT_CTOR
-
-#include <glm/glm.hpp>
-#include <glm/ext.hpp>
-
-int main()
-{
-	int Error = 0;
-
-	glm::ivec4 B(1);
-	Error += B == glm::ivec4(1) ? 0 : 1;
-
-	//glm::vec4 A = B;
-
-	return Error;
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e873bde8928f44ec521f92002bc8a66867c24ca9036bf6a2caa6cd2d2877b497
+size 223

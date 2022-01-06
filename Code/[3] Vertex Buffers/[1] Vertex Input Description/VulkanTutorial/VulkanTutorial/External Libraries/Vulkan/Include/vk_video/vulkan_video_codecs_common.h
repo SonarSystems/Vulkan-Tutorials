@@ -1,21 +1,3 @@
-/*
-** Copyright (c) 2019-2021 The Khronos Group Inc.
-**
-** SPDX-License-Identifier: Apache-2.0
-*/
-
-#ifndef VULKAN_VIDEO_CODEC_COMMON_H_
-#define VULKAN_VIDEO_CODEC_COMMON_H_ 1
-
-#ifdef __cplusplus
-extern "C" {
-#endif
-
-#define VK_MAKE_VIDEO_STD_VERSION(major, minor, patch) \
-    ((((uint32_t)(major)) << 22) | (((uint32_t)(minor)) << 12) | ((uint32_t)(patch)))
-
-#ifdef __cplusplus
-}
-#endif
-
-#endif // VULKAN_VIDEO_CODEC_COMMON_H_
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c03b8934a5696ec8631b771c81660172bda75d00979d9b734038783d85eb1f1
+size 449

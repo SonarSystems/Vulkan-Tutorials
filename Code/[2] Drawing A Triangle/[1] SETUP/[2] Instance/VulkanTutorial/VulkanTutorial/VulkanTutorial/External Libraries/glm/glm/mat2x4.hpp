@@ -1,9 +1,3 @@
-/// @ref core
-/// @file glm/mat2x4.hpp
-
-#pragma once
-#include "./ext/matrix_double2x4.hpp"
-#include "./ext/matrix_double2x4_precision.hpp"
-#include "./ext/matrix_float2x4.hpp"
-#include "./ext/matrix_float2x4_precision.hpp"
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:37d8f5a57c2885d495185153ad13b6b5a1da35294e48f934729f09dda7876203
+size 233

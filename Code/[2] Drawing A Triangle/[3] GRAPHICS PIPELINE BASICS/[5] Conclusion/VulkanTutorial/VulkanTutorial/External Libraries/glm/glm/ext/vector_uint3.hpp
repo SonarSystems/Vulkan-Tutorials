@@ -1,18 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_uint3.hpp
-
-#pragma once
-#include "../detail/type_vec3.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector
-	/// @{
-
-	/// 3 components vector of unsigned integer numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	typedef vec<3, unsigned int, defaultp>		uvec3;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:7719bc51395424bbd73f9bec3e43fe341495f924c8a97bcdf3a1163e19d29a32
+size 435

@@ -1,34 +1,3 @@
-#include <glm/ext/quaternion_trigonometric.hpp>
-#include <glm/ext/quaternion_float.hpp>
-#include <glm/ext/vector_relational.hpp>
-#include <glm/ext/scalar_relational.hpp>
-
-float const Epsilon = 0.001f;
-
-static int test_angle()
-{
-	int Error = 0;
-
-	{
-		glm::quat const Q = glm::quat(glm::vec3(1, 0, 0), glm::vec3(0, 1, 0));
-		float const A = glm::degrees(glm::angle(Q));
-		Error += glm::equal(A, 90.0f, Epsilon) ? 0 : 1;
-	}
-
-	{
-		glm::quat const Q = glm::quat(glm::vec3(0, 1, 0), glm::vec3(1, 0, 0));
-		float const A = glm::degrees(glm::angle(Q));
-		Error += glm::equal(A, 90.0f, Epsilon) ? 0 : 1;
-	}
-
-	return Error;
-}
-
-int main()
-{
-	int Error = 0;
-
-	Error += test_angle();
-
-	return Error;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:838a83fbb22df2e86bbd124f1f301649fe01528ec907826e4700aad8530c643d
+size 723

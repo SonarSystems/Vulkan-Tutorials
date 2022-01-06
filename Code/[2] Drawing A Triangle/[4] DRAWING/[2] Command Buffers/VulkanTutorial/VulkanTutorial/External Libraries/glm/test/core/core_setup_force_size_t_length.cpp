@@ -1,22 +1,3 @@
-#define GLM_FORCE_SIZE_T_LENGTH
-#include <glm/glm.hpp>
-#include <glm/ext.hpp>
-
-template <typename genType>
-genType add(genType const& a, genType const& b)
-{
-	genType result(0);
-	for(glm::length_t i = 0; i < a.length(); ++i)
-		result[i] = a[i] + b[i];
-	return result;
-}
-
-int main()
-{
-	int Error = 0;
-
-	glm::ivec4 v(1);
-	Error += add(v, v) == glm::ivec4(2) ? 0 : 1;
-
-	return Error;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7abf7dd5788d0f25565d3277aa9b1ca13f2d30d167937dc975477bb9dc60e035
+size 404

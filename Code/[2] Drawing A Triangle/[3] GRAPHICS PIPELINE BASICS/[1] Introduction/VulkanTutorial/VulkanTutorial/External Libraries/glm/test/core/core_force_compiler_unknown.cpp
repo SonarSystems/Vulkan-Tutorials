@@ -1,14 +1,3 @@
-#ifndef GLM_FORCE_COMPILER_UNKNOWN
-#	define GLM_FORCE_COMPILER_UNKNOWN
-#endif
-
-#include <glm/glm.hpp>
-#include <glm/ext.hpp>
-
-int main()
-{
-	int Error = 0;
-
-	return Error;
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c10a624eb9634f3f59d22c69d9fc85e55c639454dca1e83704d52e4d110f3d
+size 188

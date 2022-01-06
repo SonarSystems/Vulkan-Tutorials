@@ -1,5 +1,3 @@
-var searchData=
-[
-  ['green_694',['green',['../structGLFWgammaramp.html#affccc6f5df47820b6562d709da3a5a3a',1,'GLFWgammaramp']]],
-  ['greenbits_695',['greenBits',['../structGLFWvidmode.html#a292fdd281f3485fb3ff102a5bda43faa',1,'GLFWvidmode']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea5bd03821872e145c9559c440b15660d89acfbce1be0581ba18f56a6395bcd
+size 246

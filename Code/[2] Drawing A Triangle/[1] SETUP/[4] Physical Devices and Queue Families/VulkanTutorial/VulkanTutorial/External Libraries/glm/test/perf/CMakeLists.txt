@@ -1,6 +1,3 @@
-glmCreateTestGTC(perf_matrix_div)
-glmCreateTestGTC(perf_matrix_inverse)
-glmCreateTestGTC(perf_matrix_mul)
-glmCreateTestGTC(perf_matrix_mul_vector)
-glmCreateTestGTC(perf_matrix_transpose)
-glmCreateTestGTC(perf_vector_mul_matrix)
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c1a1661cee422023188eabc59f4882cc846dd07a777f613b113c937f99d307
+size 234

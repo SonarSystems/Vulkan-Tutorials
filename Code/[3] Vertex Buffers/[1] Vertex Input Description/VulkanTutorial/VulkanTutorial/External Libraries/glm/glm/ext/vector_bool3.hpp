@@ -1,18 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_bool3.hpp
-
-#pragma once
-#include "../detail/type_vec3.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector
-	/// @{
-
-	/// 3 components vector of boolean.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	typedef vec<3, bool, defaultp>		bvec3;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:a828c03d2b6e9f68d4b859c4465cf1a0f2b42c94825e80643ac77fba99fde1b8
+size 410

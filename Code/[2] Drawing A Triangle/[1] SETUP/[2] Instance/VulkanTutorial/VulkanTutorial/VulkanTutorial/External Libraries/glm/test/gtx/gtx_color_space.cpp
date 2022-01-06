@@ -1,20 +1,3 @@
-#define GLM_ENABLE_EXPERIMENTAL
-#include <glm/gtx/color_space.hpp>
-
-int test_saturation()
-{
-	int Error(0);
-	
-	glm::vec4 Color = glm::saturation(1.0f, glm::vec4(1.0, 0.5, 0.0, 1.0));
-
-	return Error;
-}
-
-int main()
-{
-	int Error(0);
-
-	Error += test_saturation();
-
-	return Error;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:127437fba1cbac3126b690dd13feb21c9818eb0124583c0cc1dc25cc9cc4cdeb
+size 297

@@ -1,31 +1,3 @@
-/// @ref core
-/// @file glm/ext/vector_bool4_precision.hpp
-
-#pragma once
-#include "../detail/type_vec4.hpp"
-
-namespace glm
-{
-	/// @addtogroup core_vector_precision
-	/// @{
-
-	/// 4 components vector of high qualifier bool numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<4, bool, highp>		highp_bvec4;
-
-	/// 4 components vector of medium qualifier bool numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<4, bool, mediump>	mediump_bvec4;
-
-	/// 4 components vector of low qualifier bool numbers.
-	///
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.1.5 Vectors</a>
-	/// @see <a href="http://www.opengl.org/registry/doc/GLSLangSpec.4.20.8.pdf">GLSL 4.20.8 specification, section 4.7.2 Precision Qualifier</a>
-	typedef vec<4, bool, lowp>		lowp_bvec4;
-
-	/// @}
-}//namespace glm
+version https://git-lfs.github.com/spec/v1
+oid sha256:93cb3a0613e0dec131e9f572f392e9c0799b03ed4bb84a63c81c10ada416964c
+size 1371

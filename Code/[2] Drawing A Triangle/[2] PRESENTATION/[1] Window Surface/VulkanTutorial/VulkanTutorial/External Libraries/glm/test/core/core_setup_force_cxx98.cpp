@@ -1,12 +1,3 @@
-#ifndef GLM_FORCE_CXX98
-#	define GLM_FORCE_CXX98
-#endif
-#include <glm/glm.hpp>
-#include <glm/ext.hpp>
-
-int main()
-{
-	int Error = 0;
-
-	return Error;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6439e0a91e3ea2f17554ce36f4ffa09809085a567f465cfc3286124f92533283
+size 162

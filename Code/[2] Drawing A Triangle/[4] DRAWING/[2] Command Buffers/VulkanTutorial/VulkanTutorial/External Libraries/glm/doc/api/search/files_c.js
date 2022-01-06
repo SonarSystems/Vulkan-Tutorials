@@ -1,5 +1,3 @@
-var searchData=
-[
-  ['optimum_5fpow_2ehpp',['optimum_pow.hpp',['../a00117.html',1,'']]],
-  ['orthonormalize_2ehpp',['orthonormalize.hpp',['../a00118.html',1,'']]]
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f693e59ce620401386d63e0b31d874b12f105b12b4e2167ba6a1ed83f457e61
+size 171
